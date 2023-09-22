@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! My name's Alex and I am figuring out my programming journey.
+
+- 🔭 I’m currently working on learning C++ and Java...
+- 🌱 I’m currently learning how to not be a procrastinator!
+- 📫 How to reach me: alexander.baires@snhu.edu
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I used to work inside of a giant freezer!
