@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![IMG_7200](https://github.com/Bentrollio/Bentrollio/assets/109702084/30eef8ee-d0b4-463a-8bd5-f41a5ef29450)
+![IMG_7200](https://github.com/Bentrollio/Bentrollio/assets/109702084/c9752fe9-a3f6-43e0-9186-c199dc3d8c59)
+
 
 Hi! My name's Alex and I am figuring out my programming journey.
 
