@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Hi! My name's Alex and I am figuring out my programming journey.
 
-- 🔭 I’m currently working on learning C++ and Java...
+- 🔭 I’m currently working on SNHU's CS-300 Data Structures and Algorithms class!
 - 🌱 I’m currently learning how to not be a procrastinator!
 - 📫 How to reach me: alexander.baires@snhu.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to work inside of a giant freezer!
+- ⚡ Fun fact: I was a cellist for years! I want to take lessons again when I have more time :)
